@@ -1,4 +1,4 @@
-# Improving-Action-Recognition-using-Sequenctial-Feature-Aggregation-and-Attention
+# Improving-Action-Recognition-using-Sequential-Feature-Aggregation-and-Attention
 action recognition paper
 
 Hi my name is Fazliddin.
